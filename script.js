@@ -1,5 +1,5 @@
 // It should discover the location of a computer automatically
-
+// see https://www.wunderground.com/weather/api/d/docs?d=data/conditions#examples
 // It should display the location on screen
 
 // It should display the current temperature at the computer's location
