@@ -1,5 +1,5 @@
 // It should discover the location of a computer automatically
-// see https://www.wunderground.com/weather/api/d/docs?d=data/conditions#examples
+// openweather key: fd2086172a04d3071202e4e7c285615f
 // It should display the location on screen
 
 // It should display the current temperature at the computer's location
@@ -36,3 +36,4 @@ var currentWeather = {
   }
 };
 // It should show a different icon or background that corresponds with the temperature/weather
+
